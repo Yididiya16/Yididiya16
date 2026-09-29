@@ -1,7 +1,7 @@
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/Yididiya16/Yididiya16/main/assets/profile-banner.svg"
-    alt="Yididiya Beyene - Software Engineer"
+    alt="Yididiya Beyene - I'm Software Engineer"
     width="100%"
   />
 </div>
