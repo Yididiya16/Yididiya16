@@ -44,21 +44,28 @@
 </section>
 
 <section>
-<h2>🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-  
- <h2 align="center">Frontend</h2>
+<h3 align="center">🎨 Frontend</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs&perline=6,js,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&perline=6" />
 </p>
 
-<h2 align="center"><b>Backend & Database</b></h2>
+<h3 align="center">⚙️ Backend & Database</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,XAMPP,Php,ex" />
-    </p>
-  <h2 align="center">Tool & Platform</h2>
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jira,slack,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,php,mysql&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=xampp&perline=1" />
+</p>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,jira,slack,vscode&perline=5" />
 </p>
 
   
