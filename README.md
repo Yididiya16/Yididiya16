@@ -5,29 +5,14 @@
     width="100%"
   />
 </div>
-<!--<br>
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  I'm a Software Engineer passionate about building modern,
-  responsive, and user-friendly digital experiences.
-</p>
-
-<p align="center">
-  I enjoy turning ideas into real-world applications and continuously
-  learning new technologies to improve my skills.
-</p>
-
-<br>
-
-<div align="center">
-
-⚡ **Frontend Development** &nbsp;&nbsp; • &nbsp;&nbsp;
-⚛️ **React & JavaScript** &nbsp;&nbsp; • &nbsp;&nbsp;
-🛠️ **Modern Web Applications** &nbsp;&nbsp; • &nbsp;&nbsp;
-🚀 **Continuous Learning**
+🚀 Building modern, scalable, and beautiful digital experiences.
 
 </div>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yididiya+%F0%9F%91%8B;Frontend+Developer+%7C+React+Developer;Building+Modern+Web+Experiences+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%92%9C" alt="Typing SVG" />
+</p>
 
 
