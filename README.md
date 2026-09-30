@@ -39,7 +39,7 @@
 ⚛️ **React & JavaScript** &nbsp;&nbsp; • &nbsp;&nbsp;
 🛠️ **Modern Web Applications** &nbsp;&nbsp; • &nbsp;&nbsp;
 🚀 **Continuous Learning**
-
+</br>
 </div> 
 </section>
 
