@@ -19,7 +19,7 @@
 <section>
  <br>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 <b>About Me</b></h2>
 
 <p align="center">
   I'm a Software Engineer passionate about building modern,
