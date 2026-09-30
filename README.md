@@ -57,9 +57,12 @@
 
 <h3 align="center">⚙️ Backend & Database</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,php,mysql,xampp&perline= 5" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,php,mysql&perline= 4" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+</p>
 <br>
 
 <h3 align="center">🔧 Tools & Platforms</h3>
