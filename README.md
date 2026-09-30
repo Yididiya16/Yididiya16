@@ -44,6 +44,7 @@
 </section>
 
 <section>
+  <br>
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">🎨 Frontend</h3>
@@ -67,7 +68,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,vscode&perline=5" />
 </p>
-
+</br>
   
 </section>
 
