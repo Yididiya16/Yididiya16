@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs&perline=6,js,tailwindcss" />
 </p>
 
-<h2 align="center"><b>Backend & Database></b></h2>
+<h2 align="center"><b>Backend & Database</b></h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?
   i=java,XAMPP,Php,ex" />
