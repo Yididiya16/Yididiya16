@@ -46,12 +46,21 @@
 <section>
 <h2>🛠️ Tech Stack</h2>
 
+  
+<h2 align="center"><b>Frontend></b></h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs&perline=6,js,tailwindcss" />
 </p>
 
+<h2 align="center"><b>Backend & Database></b></h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,androidstudio,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?
+  i=java,XAMPP,Php,ex" />
+    </p>
+  <h2 align="center">Tool & Platform</h2>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?
+    i=git,github,jira,slack,vscode&perline=6" />
 </p>
 
   
