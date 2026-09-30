@@ -45,7 +45,7 @@
 
 <section>
   <br>
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <h3 align="center">🎨 Frontend</h3>
 
