@@ -65,7 +65,7 @@
 <h3 align="center">🔧 Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,jira,slack,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode&perline=5" />
 </p>
 
   
