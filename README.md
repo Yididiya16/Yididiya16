@@ -19,16 +19,16 @@
 <section>
  <br>
 
-<h2 align="center">👨‍💻 <b>About Me</b></h2>
+<h2>👨‍💻 <b>About Me</b></h2>
 
 <p align="center">
-  I'm a Software Engineer passionate about building modern,
-  responsive, and user-friendly digital experiences.
+ <b> I'm a Software Engineer passionate about building modern,
+  responsive website, and user-friendly digital experiences.</b>
 </p>
 
 <p align="center">
-  I enjoy turning ideas into real-world applications and continuously
-  learning new technologies to improve my skills.
+ <b> I enjoy turning ideas into real-world applications and continuously
+  learning new technologies to improve my skills.</b>
 </p>
 
 <br>
