@@ -44,7 +44,7 @@
 </section>
 
 <section>
-  <br>
+  
 <h2>🛠️ Tech Stack</h2>
 
 <h3 align="center">🎨 Frontend</h3>
@@ -52,16 +52,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&perline=6" />
 </p>
+<br>
 
 <h3 align="center">⚙️ Backend & Database</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,php,mysql&perline=4" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=xampp&perline=1" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,php,mysql,xampp&perline= 5/>
 </p>
 <br>
+
 <h3 align="center">🔧 Tools & Platforms</h3>
 
 <p align="center">
@@ -69,7 +67,7 @@
    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" />
 </p>
-</br>
+
   
 </section>
 
