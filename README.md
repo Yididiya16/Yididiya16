@@ -52,23 +52,23 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&perline=6" />
 </p>
+
 <br>
 
 <h3 align="center">⚙️ Backend & Database</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,php,mysql,xampp&perline= 5/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,php,mysql,xampp&perline= 5" />
 </p>
+
 <br>
 
 <h3 align="center">🔧 Tools & Platforms</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,vscode&perline=5" />
    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="48" />
 </p>
 
-  
 </section>
 
 
