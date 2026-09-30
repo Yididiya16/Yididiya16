@@ -47,7 +47,7 @@
 <h2>🛠️ Tech Stack</h2>
 
   
-<h2 align="center"><b>Frontend></b></h2>
+ Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs&perline=6,js,tailwindcss" />
 </p>
