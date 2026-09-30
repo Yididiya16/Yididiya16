@@ -16,4 +16,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Welcome+to+my+GitHub+%F0%9F%92%9C;I'm+Yididiya+Beyene+%F0%9F%91%8B;Software+Engineer+@+Wachemo+University;+Fullstack+Developer;Building+Modern+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<section>
+ <br>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm a Software Engineer passionate about building modern,
+  responsive, and user-friendly digital experiences.
+</p>
+
+<p align="center">
+  I enjoy turning ideas into real-world applications and continuously
+  learning new technologies to improve my skills.
+</p>
+
+<br>
+
+<div align="center">
+
+⚡ **Frontend Development** &nbsp;&nbsp; • &nbsp;&nbsp;
+⚛️ **React & JavaScript** &nbsp;&nbsp; • &nbsp;&nbsp;
+🛠️ **Modern Web Applications** &nbsp;&nbsp; • &nbsp;&nbsp;
+🚀 **Continuous Learning**
+
+</div> 
+</section>
+
 
